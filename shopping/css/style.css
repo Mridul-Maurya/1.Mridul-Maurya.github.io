@@ -1,0 +1,20 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+header{
+	background-image: url(../1.jpg);
+	height: 100vh;
+	background-size:cover;
+	background-position: center;
+}
+nav{
+	padding-top: 20px;
+	background-color: yellow;
+	 
+}
+.nav-bar ul{
+	float: right;
+	list-style-type: none;
+}
+ 
